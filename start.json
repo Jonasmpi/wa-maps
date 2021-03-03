@@ -44,6 +44,11 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.neuroforge.de"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
                 }],
          "type":"tilelayer",
          "visible":true,
