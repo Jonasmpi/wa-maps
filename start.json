@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"nf_office_small.json"
+                 "value":"neuroforge_office.json"
                 }],
          "type":"tilelayer",
          "visible":true,
