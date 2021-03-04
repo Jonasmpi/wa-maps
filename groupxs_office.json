@@ -42,7 +42,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"office-map-meeting-room"
+                 "value":"groupxs-office-map-meeting-room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"office-map-chill-zone"
+                 "value":"groupxs-office-map-chill-zone"
                 }],
          "type":"tilelayer",
          "visible":true,
