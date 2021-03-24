@@ -77,7 +77,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"entry-groupxs",
+                 "name":"startLayer",
                  "type":"bool",
                  "value":true
                 }],
