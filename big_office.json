@@ -182255,7 +182255,7 @@
       "tilecount": 196,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182331,7 +182331,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182345,7 +182345,7 @@
       "tilecount": 640,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182359,7 +182359,7 @@
       "tilecount": 896,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182373,7 +182373,7 @@
       "tilecount": 592,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182629,7 +182629,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182643,7 +182643,7 @@
       "tilecount": 464,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182657,7 +182657,7 @@
       "tilecount": 112,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182671,7 +182671,7 @@
       "tilecount": 304,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182717,7 +182717,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 12,
@@ -182731,7 +182731,7 @@
       "tilecount": 48,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182745,7 +182745,7 @@
       "tilecount": 976,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182831,7 +182831,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182845,7 +182845,7 @@
       "tilecount": 192,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182911,7 +182911,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182925,7 +182925,7 @@
       "tilecount": 272,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -182981,7 +182981,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -183197,7 +183197,7 @@
         }
       ],
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -183211,7 +183211,7 @@
       "tilecount": 720,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
     },
     {
       "columns": 16,
@@ -183225,7 +183225,21 @@
       "tilecount": 960,
       "tileheight": 32,
       "tilewidth": 32,
-      "transparentcolor": "#ff00ff"
+      "transparentcolor": "#a79796"
+    },
+    {
+      "columns": 16,
+      "firstgid": 16797,
+      "image": "1_Generic_32x32.png",
+      "imageheight": 1920,
+      "imagewidth": 512,
+      "margin": 0,
+      "name": "TESTFORTRANSPARENT",
+      "spacing": 0,
+      "tilecount": 960,
+      "tileheight": 32,
+      "tilewidth": 32,
+      "transparentcolor": "#a79796"
     }
   ],
   "tilewidth": 32,
