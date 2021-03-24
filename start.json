@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"nf_office.json"
+                 "value":"nf_office.json#entry-neuroforge"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -43,7 +43,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"groupxs_office.json"
+                 "value":"groupxs_office.json#entry-groupxs"
                 }],
          "type":"tilelayer",
          "visible":true,
