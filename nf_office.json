@@ -53,6 +53,11 @@
          "opacity":1,
          "properties":[
                 {
+                 "name":"audioVolume",
+                 "type":"float",
+                 "value":0.5
+                }, 
+                {
                  "name":"playAudio",
                  "type":"string",
                  "value":"bell.mp3"
