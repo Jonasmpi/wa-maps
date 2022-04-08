@@ -15,7 +15,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -33,7 +33,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -51,7 +51,7 @@
                  "value":"start.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -69,7 +69,7 @@
                  "value":"fantasy.json"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -92,7 +92,7 @@
                  "value":"fullscreen"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -115,7 +115,7 @@
                  "value":"microphone"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -133,7 +133,7 @@
                  "value":true
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -156,7 +156,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -179,7 +179,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -202,7 +202,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -225,7 +225,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -248,7 +248,7 @@
                  "value":"onaction"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -260,7 +260,7 @@
          "name":"collides",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -272,7 +272,7 @@
          "name":"void",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -284,7 +284,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -296,7 +296,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -319,7 +319,7 @@
                  "value":"hand_wash.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -342,7 +342,7 @@
                  "value":"toilet.mp3"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -354,7 +354,7 @@
          "name":"klo_raum",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -378,7 +378,7 @@
          "name":"logos",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -390,7 +390,7 @@
          "name":"stationary_2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -402,7 +402,7 @@
          "name":"stationary_1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -414,7 +414,7 @@
          "name":"workdesks",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -426,7 +426,7 @@
          "name":"stuff_1",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -438,7 +438,7 @@
          "name":"stuff on desks",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -450,7 +450,7 @@
          "name":"stuff on desks 2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -462,7 +462,7 @@
          "name":"chairs",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -474,7 +474,7 @@
          "name":"Kachelebene 15",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -486,7 +486,7 @@
          "name":"stuff_0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -498,7 +498,7 @@
          "objects":[],
          "opacity":1,
          "type":"objectgroup",
-         "visible":true,
+         "visible":false,
          "x":0,
          "y":0
         }, 
@@ -509,7 +509,7 @@
          "name":"stationary_0",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":32,
          "x":0,
          "y":0
@@ -548,8 +548,72 @@
          "tilewidth":32
         }, 
         {
+         "columns":9,
          "firstgid":1816,
-         "source":"tilesets\/mapUtilities.tsx"
+         "image":"tilesets\/mapUtilities.png",
+         "imageheight":32,
+         "imagewidth":288,
+         "margin":0,
+         "name":"mapUtilities",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "type":"EXIT"
+                }, 
+                {
+                 "id":1,
+                 "properties":[
+                        {
+                         "name":"startLayer",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "type":"START"
+                }, 
+                {
+                 "id":2,
+                 "type":"INVIS"
+                }, 
+                {
+                 "id":3,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "type":"BLOCK"
+                }, 
+                {
+                 "id":4,
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "type":"SILENT"
+                }, 
+                {
+                 "id":5,
+                 "type":"AUDIO"
+                }, 
+                {
+                 "id":6,
+                 "type":"CHANGE"
+                }, 
+                {
+                 "id":7,
+                 "type":"MISC"
+                }, 
+                {
+                 "id":8,
+                 "type":"URL"
+                }],
+         "tilewidth":32
         }, 
         {
          "columns":32,
@@ -1047,8 +1111,145 @@
          "transparentcolor":"#a79796"
         }, 
         {
+         "columns":8,
          "firstgid":5363,
-         "source":"tilesets\/fantasy.tsx"
+         "image":"fantasy.png",
+         "imageheight":4522,
+         "imagewidth":272,
+         "margin":1,
+         "name":"fantasy",
+         "spacing":2,
+         "tilecount":1064,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":16,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":17,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":18,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":19,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":20,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":21,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":40,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":41,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":42,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":308,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":919,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":935,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":943,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }, 
+                {
+                 "id":951,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32,
+         "transparentcolor":"#ff00ff"
         }, 
         {
          "columns":16,
