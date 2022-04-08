@@ -30,7 +30,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"nf_office.json#backtowork"
+                 "value":"nf_office_klo.json#backtowork"
                 }],
          "type":"tilelayer",
          "visible":true,
